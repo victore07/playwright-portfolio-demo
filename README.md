@@ -31,7 +31,7 @@ playwright-portfolio-demo/
 * **Pytest Fixtures:** Efficient browser instance management using `conftest.py` to handle setup and teardown automatically.
 * **Robust Locators:** Uses resilient Playwright selectors (e.g., `data-test` attributes) rather than brittle XPaths.
 
-## ⚙️ Setup & Installation
+## Setup & Installation
 
 1.  **Clone the repository:**
     ```bash
