@@ -67,4 +67,4 @@ pytest --headed
 ## Author
 
 **Technical QA Engineer**
-[www.linkedin.com/in/victore07](www.linkedin.com/in/victore07)
+[linkedin.com/in/victore07](https://www.linkedin.com/in/victore07)
